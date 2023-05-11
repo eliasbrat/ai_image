@@ -1,0 +1,8 @@
+name: Artificial Intelligence Images Generator
+type: module
+description: Creates an image by taking user input and communicating with Open AI and Stable Diffusion APIs.
+package: Artificial Intelligence
+core_version_requirement: ^9 || ^10
+dependencies:
+  - openai
+  - key

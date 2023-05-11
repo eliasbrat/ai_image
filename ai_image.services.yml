@@ -1,0 +1,5 @@
+services:
+  ai_image.get_image:
+    class: Drupal\ai_image\GetAIImage
+    arguments: []
+
